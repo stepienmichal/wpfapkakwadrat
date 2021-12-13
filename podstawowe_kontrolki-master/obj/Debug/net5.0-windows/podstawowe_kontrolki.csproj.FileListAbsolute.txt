@@ -1,0 +1,66 @@
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.exe
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.deps.json
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.runtimeconfig.json
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.runtimeconfig.dev.json
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.dll
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\ref\podstawowe_kontrolki.dll
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.pdb
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.csproj.AssemblyReference.cache
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki_MarkupCompile.cache
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki_MarkupCompile.lref
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.g.resources
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.AssemblyInfoInputs.cache
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.AssemblyInfo.cs
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.csproj.CoreCompileInputs.cache
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.dll
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\ref\podstawowe_kontrolki.dll
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.pdb
+C:\Users\Szkola\Desktop\Nowy folder\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.exe
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.deps.json
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.runtimeconfig.json
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.dll
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\ref\podstawowe_kontrolki.dll
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.pdb
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki_MarkupCompile.cache
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki_MarkupCompile.lref
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.g.resources
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.dll
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\ref\podstawowe_kontrolki.dll
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.pdb
+C:\Users\micha\OneDrive\Pulpit\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.genruntimeconfig.cache
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.exe
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.deps.json
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.runtimeconfig.json
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.runtimeconfig.dev.json
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.dll
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\ref\podstawowe_kontrolki.dll
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\bin\Debug\net5.0-windows\podstawowe_kontrolki.pdb
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.csproj.AssemblyReference.cache
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki_MarkupCompile.cache
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki_MarkupCompile.lref
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.g.resources
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.AssemblyInfoInputs.cache
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.AssemblyInfo.cs
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.csproj.CoreCompileInputs.cache
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.dll
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\ref\podstawowe_kontrolki.dll
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.pdb
+C:\Users\Szkola\Desktop\podstawowe_kontrolki-master\podstawowe_kontrolki-master\obj\Debug\net5.0-windows\podstawowe_kontrolki.genruntimeconfig.cache
